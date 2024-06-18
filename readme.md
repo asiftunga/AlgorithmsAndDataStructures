@@ -1,0 +1,1 @@
+This repository contains my notes on algorithms and data structures, as well as solutions from various platforms (HackerRank, LeetCode, CodeChef, Project Euler, etc.) The solutions are mostly in C#, but some may be in Go or TypeScript.
