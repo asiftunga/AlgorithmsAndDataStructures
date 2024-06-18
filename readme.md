@@ -1,1 +1,1 @@
-This repository contains my notes on algorithms and data structures, as well as solutions from various platforms (HackerRank, LeetCode, CodeChef, Project Euler, etc.) The solutions are mostly in C#, but some may be in Go or TypeScript.
+This repository contains my notes on algorithms and data structures, as well as solutions from various platforms (CodeForces, HackerRank, LeetCode, CodeChef, Project Euler (1-100), etc.) The solutions are mostly in C#, but some may be in Go or TypeScript.
