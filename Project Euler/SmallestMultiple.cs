@@ -9,7 +9,7 @@ class Program
         Stopwatch stopwatch = Stopwatch.StartNew();
 
         List<List<int>> prime = new();
-        int count, ekokNumber = 1;
+        int count, lcmNumber = 1;
         List<int> controlledItems = new();
 
         for (int j = 2; j <= 20; j++)
@@ -62,7 +62,7 @@ class Program
 
                     for (int k = 1; k <= biggest; k++)
                     {
-                        ekokNumber *= prime[i][j];
+                        lcmNumber *= prime[i][j];
                     }
 
                     controlledItems.Add(prime[i][j]);
@@ -74,7 +74,7 @@ class Program
 
         Console.WriteLine(result);
 
-        Console.WriteLine(ekokNumber);
+        Console.WriteLine(lcmNumber);
 
         stopwatch.Stop();
 
